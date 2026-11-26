@@ -53,3 +53,7 @@ Full processor validation remains a future improvement.
 - Processor architecture
 - Memory and register management
 - Circuit simulation and debugging
+
+## 📷 Processor Design
+
+![Processor Architecture](processor.png)
